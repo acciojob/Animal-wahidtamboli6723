@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+.animal_photos img{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	margin:10px;
+	max-width:300px;
+	 border-radius: 10px;
+	 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.photo-heading{
+	text-align:center;
+}
